@@ -3,8 +3,9 @@
 * Bullet 1
 * Bullet 2
 
-Paragraph text
+Use a blank line to separate different items.
+Paragraphs are sometimes needed.
 
-...
-code example
-...
+```
+back-tics for code example
+```
