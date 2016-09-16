@@ -7,6 +7,7 @@ Use a blank line to separate different items.
 Without a blank line, there will be no new line.  Leaving 2 spaces may  create a break. That was the rumor, but    evidently not.
 
 ```ruby
-back-tics and the word "ruby" on the backtic line will render
-highlighted text as ruby red
+backticks and the word "ruby" on the backtic line 
+puts "text after a ruby command"
+as ruby red
 ```
