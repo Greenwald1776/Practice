@@ -4,7 +4,7 @@
 * Bullet 2
 
 Use a blank line to separate different items.
-Paragraphs are sometimes needed.
+Without a blank line, there will be no new line.  Leaving 2 spaces may  create a break.
 
 ```
 back-tics for code example
